@@ -1,0 +1,22 @@
+https://archive.ics.uci.edu/
+https://www.opendatanetwork.com/
+https://data.fivethirtyeight.com/
+https://www.reddit.com/r/datasets/
+https://beta.data.gov.sg/datasets
+
+https://www.kaggle.com/datasets/fronkongames/steam-games-dataset
+https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
+https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
+
+https://www.kaggle.com/datasets/gpreda/bbc-news
+https://data.world/robertjoellewis/film-subtitles
+https://data.world/crawlfeeds/cnbc-news-dataset
+https://data.world/opensnippets/cnn-news-dataset
+
+https://data.world/sports/olympics
+
+Web Scrapping
+
+https://www.metacritic.com/browse/game/
+https://www.metacritic.com/browse/movie/
+https://concertful.com/top?page=1
