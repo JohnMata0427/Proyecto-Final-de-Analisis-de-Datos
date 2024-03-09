@@ -1,6 +1,6 @@
 <h1 align="center">Análisis de Datos</h1>
 
-<img src="https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/6fc44f13-68ff-4285-b469-4edec0f243e3" style="width: 100%"/>
+<img src="https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/1f3319fa-46cc-412e-a443-4d72d63a6400" style="width: 100%"/>
 
 ## Arquitectura Data Lake del Caso de Estudio Deportes
 
