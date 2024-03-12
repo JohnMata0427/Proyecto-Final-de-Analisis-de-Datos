@@ -1,5 +1,5 @@
 <h1 align="center">Análisis de Datos</h1>
-<h2 align="center">Ciencia de datos con Data Lake 🗄️📚🔎📊</h2>
+<h2 align="center">Casos de Estudio con Data Lake 🗄️📚🔎📊</h2>
 
 <img src="https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/1f3319fa-46cc-412e-a443-4d72d63a6400" style="width: 100%"/>
 
