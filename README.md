@@ -1,24 +1,21 @@
-<h1 align="center">Análisis de Datos</h1>
-<h2 align="center">Casos de Estudio con Data Lake 🗄️📚🔎📊</h2>
-
-<img src="https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/1f3319fa-46cc-412e-a443-4d72d63a6400" style="width: 100%"/>
+<h1 align="center">Casos de Estudio con Data Lake 🗄️📊</h1>
 
 ## Arquitectura Data Lake del Caso de Estudio Deportes
 
-![Deportes](https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/1793bf5b-e651-49ae-8fac-bb9bdeaffcb8)
+![1](https://github.com/user-attachments/assets/57326610-2e86-4555-b741-c45877f9758b)
 
 ## Arquitectura Data Lake del Caso de Estudio Noticias
 
-![Noticias](https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/a6465fa7-7b56-438f-8a2e-b7504889616e)
+![2](https://github.com/user-attachments/assets/51d0fa3c-c6f0-4301-a8d5-6d56bdde5ffe)
 
 ## Arquitectura Data Lake del Caso de Estudio Peliculas
 
-![Peliculas](https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/075b02df-003b-4d27-baf3-9c4f8ec79e3b)
+![3](https://github.com/user-attachments/assets/6a82cfa3-b777-4636-ab99-d03ad81c85d7)
 
 ## Arquitectura Data Lake del Caso de Estudio Videojuegos
 
-![Videojuegos](https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/2faa968c-be63-4d2f-b60a-c73ee47dea71)
+![4](https://github.com/user-attachments/assets/6686946a-21eb-42b0-9969-7033746d7dce)
 
 ## Arquitectura Data Lake del Caso de Estudio Conciertos
 
-![Conciertos](https://github.com/JohnMata0427/Proyecto-Final-de-Analisis-de-Datos/assets/150484680/ef46e903-fb88-433c-9f9f-7f314bfd1413)
+![5](https://github.com/user-attachments/assets/ca551a97-fab8-4a50-a524-bf784f4fa4c4)
